@@ -1,0 +1,14 @@
+body {
+    background: #121212;
+}
+
+img {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    margin-top: 10%;
+    width: 256px;
+    height: 256px;
+}
